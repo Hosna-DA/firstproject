@@ -6,8 +6,11 @@ A sample SQL Server data base for practicing which is about a finance Tracker
 - SQL Sever Management Studio(SSMS)
 ## Installation:
 1.Download the database backup
+<br>
 2.Open SQL SEVER MANAGEMENT STUDIO
+<br>
 3.Restore the data base
+<br>
 4.connect to data base
 ## Database Structure:
 - Seed
