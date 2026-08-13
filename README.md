@@ -16,4 +16,5 @@ A sample SQL Server data base for practicing which is about a finance Tracker
 - Seed
 - Schema
 - queries
+<img width="1010" height="596" alt="project1" src="https://github.com/user-attachments/assets/4b802b5f-b7ff-493e-912f-bdd95af7989a" />
 
